@@ -1,1 +1,1 @@
-:smile_cat: &nbsp; &nbsp; Have fun with the [MIX](https://github.com/CyberZHG/MIXAL) assembly language simulator! 
+:smile_cat:
