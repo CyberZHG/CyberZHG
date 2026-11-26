@@ -9,6 +9,12 @@
 | <img src="https://raw.githubusercontent.com/CyberZHG/fork-me-on-github-svg-ribbon/refs/heads/main/public/favicon.svg" width="24"> | [SVG Ribbon Generator](https://cyberzhg.github.io/fork-me-on-github-svg-ribbon/) | SVG ribbon for "Fork me on GitHub" banners |
 | <img src="https://raw.githubusercontent.com/CyberZHG/diff-viewer/refs/heads/main/web/public/favicon.svg" width="24"> | [Diff Viewer](https://cyberzhg.github.io/diff-viewer/) | Online text comparison tool |
 
+## Mods
+
+|      | Link | Description |
+|:----:|:----:|:------------|
+| <img src="https://raw.githubusercontent.com/CyberZHG/AutoTerraMod/refs/heads/main/icon.png" width="24"> | [Auto Terra](https://cyberzhg.github.io/AutoTerraMod/) | Bots that play terraria |
+
 ## Games
 
 |      | Link | Description |
