@@ -11,9 +11,9 @@
 
 ## Mods
 
-|      | Link | Description |
-|:----:|:----:|:------------|
-| <img src="https://raw.githubusercontent.com/CyberZHG/AutoTerraMod/refs/heads/main/icon.png" width="24"> | [Auto Terra](https://github.com/CyberZHG/AutoTerraMod/) | Bots that play terraria |
+|      | Repo | Link | Description |
+|:----:|:----:|:----:|:------------|
+| <img src="https://raw.githubusercontent.com/CyberZHG/AutoTerraMod/refs/heads/main/icon.png" width="24"> | [Auto Terra](https://github.com/CyberZHG/AutoTerraMod/) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3826640205) | Bots that play terraria |
 
 ## Games
 
