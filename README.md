@@ -13,7 +13,7 @@
 
 |      | Link | Description |
 |:----:|:----:|:------------|
-| <img src="https://raw.githubusercontent.com/CyberZHG/AutoTerraMod/refs/heads/main/icon.png" width="24"> | [Auto Terra](https://cyberzhg.github.io/AutoTerraMod/) | Bots that play terraria |
+| <img src="https://raw.githubusercontent.com/CyberZHG/AutoTerraMod/refs/heads/main/icon.png" width="24"> | [Auto Terra](https://github.com/CyberZHG/AutoTerraMod/) | Bots that play terraria |
 
 ## Games
 
