@@ -13,7 +13,8 @@
 
 |      | Repo | Link | Description |
 |:----:|:----:|:----:|:------------|
-| <img src="https://raw.githubusercontent.com/CyberZHG/AutoTerraMod/refs/heads/main/icon.png" width="24"> | [Auto Terra](https://github.com/CyberZHG/AutoTerraMod/) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3826640205) | Bots that play terraria |
+| <img src="https://raw.githubusercontent.com/CyberZHG/AutoTerraMod/refs/heads/main/icon.png" width="24"> | [Terraria - Auto Factions](https://github.com/CyberZHG/AutoTerraMod/) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3826640205) | Bots that play terraria |
+| <img src="https://raw.githubusercontent.com/CyberZHG/TerrariaPermanentDamageMod/refs/heads/main/PermanentDamage/icon.png" width="24"> | [Terraria - Permanent Damage](https://github.com/CyberZHG/TerrariaPermanentDamageMod) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3846087836) | Deal permanent damage to enemies |
 
 ## Games
 
